@@ -1,11 +1,3 @@
-Device information:
-Device Id: Mitch
-Firmware Version: 1.1.0
-Hardware Version: v2.0
-Acquisition Information:
-Mode:MODE IMU
-Sampling frequency:100Hz
-Axl FS:16 g     Gyro FS:2000 dps
 Timestamp	Acc.X	Acc.Y	Acc.Z	Gyro.X	Gyro.Y	Gyro.Z	Magn.X	Magn.Y	Magn.Z	Distance.x	Distance.y	P.0	P.1	P.2	P.3	P.4	P.5	P.6	P.7	P.8	P.9	P.10	P.11	P.12	P.13	P.14	P.15	PPG_RED.	PPG_IR.	PPG_GREEN.
 1651657469075	-35.624	12.688	986.736	3.36	0	0	231	-168	-399	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1092	884	0
 1651657469085	-21.96	9.272	1014.064	5.53	-5.46	1.68	-307.5	61.5	-483	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1089	892	0
